@@ -20,12 +20,12 @@ I'm currently specializing in **Next.js** for Frontend development and **Node.js
 ## 💡 Featured Projects
 Here you can find the projects I am currently developing and highlighting.
 
-### 1. [dungeon] 
-* **Description:** A **top-down game simulation/prototype webApp**, inspired by [Game]. It serves as a **test laboratory** for developing **complex navigation and collision mechanics** using game logic implemented with React/Next.js.
+### 1. dungeon 
+* **Description:** A **top-down game simulation/prototype webApp**, inspired by Game. It serves as a **test laboratory** for developing **complex navigation and collision mechanics** using game logic implemented with React/Next.js.
 * **Technologies Used:** **Next.js**, **React.js**, **TypeScript**,**CSS3**,**HTML5**.
 * **Repo:** https://github.com/RaphaelTheStegosaurus/dungeon
 
-### 2. [Sample-Scratcher]
+### 2. Sample-Scratcher
 * **Description:** A **simple and adaptable** (responsive) web application that simulates the **"scratch-off" effect** to reveal content. It demonstrates event handling and dynamic rendering using pure JavaScript.
 * **Technologies Used:** **JavaScript**,**CSS3**, **HTML5**
 * **Repo:** https://github.com/RaphaelTheStegosaurus/Sample-Scratcher
