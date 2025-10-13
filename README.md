@@ -20,15 +20,25 @@ I'm currently specializing in **Next.js** for Frontend development and **Node.js
 ## 💡 Featured Projects
 Here you can find the projects I am currently developing and highlighting.
 
-### 1. dungeon 
+### 1. Dungeon 
 * **Description:** A **top-down game simulation/prototype webApp**, inspired by Game. It serves as a **test laboratory** for developing **complex navigation and collision mechanics** using game logic implemented with React/Next.js.
 * **Technologies Used:** **Next.js**, **React.js**, **TypeScript**,**CSS3**,**HTML5**.
-* **Repo:** https://github.com/RaphaelTheStegosaurus/dungeon
+* **Repo:** [Dungeon] https://github.com/RaphaelTheStegosaurus/dungeon
 
-### 2. Sample-Scratcher
+### 2. Game-Of-Life
+* **Description:** A implementation of Conway's Game of Life built using Next.js and React Hooks to manage the game logic and state. Is **Responsive** and  **Dynamic** by user..
+* **Technologies Used:** **NextJs**, **ReactJs**, **TypeScript**,**CSS3**, **HTML5**
+* **Repo:** [Game of Life](https://github.com/RaphaelTheStegosaurus/Game-Of-Life)
+
+### 3. Sample-Scratcher
 * **Description:** A **simple and adaptable** (responsive) web application that simulates the **"scratch-off" effect** to reveal content. It demonstrates event handling and dynamic rendering using pure JavaScript.
 * **Technologies Used:** **JavaScript**,**CSS3**, **HTML5**
-* **Repo:** https://github.com/RaphaelTheStegosaurus/Sample-Scratcher
+* **Repo:** [Sample Scratcher](https://github.com/RaphaelTheStegosaurus/Sample-Scratcher)
+
+### 4. Parallax Love Word
+* **Description:** A simple, **responsive**, and **adaptable** web application for **mobile** and **desktop** (PC) devices that creates a parallax rain effect using random romantic words.
+* **Technologies Used:** **JavaScript**,**CSS3**, **HTML5**
+* **Repo:** [Parallax Love Word](https://github.com/RaphaelTheStegosaurus/Parallax-Love-Words)
 
 ## 🔭 My Interests
 
