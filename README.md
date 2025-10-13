@@ -23,7 +23,7 @@ Here you can find the projects I am currently developing and highlighting.
 ### 1. Dungeon 
 * **Description:** A **top-down game simulation/prototype webApp**, inspired by Game. It serves as a **test laboratory** for developing **complex navigation and collision mechanics** using game logic implemented with React/Next.js.
 * **Technologies Used:** **Next.js**, **React.js**, **TypeScript**,**CSS3**,**HTML5**.
-* **Repo:** [Dungeon] (https://github.com/RaphaelTheStegosaurus/dungeon)
+* **Repo:** [Dungeon](https://github.com/RaphaelTheStegosaurus/dungeon)
 
 ### 2. Game-Of-Life
 * **Description:** A implementation of Conway's Game of Life built using Next.js and React Hooks to manage the game logic and state. Is **Responsive** and  **Dynamic** by user..
