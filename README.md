@@ -29,6 +29,7 @@ Here you can find the projects I am currently developing and highlighting.
 * **Description:** A implementation of Conway's Game of Life built using Next.js and React Hooks to manage the game logic and state. Is **Responsive** and  **Dynamic** by user..
 * **Technologies Used:** **NextJs**, **ReactJs**, **TypeScript**,**CSS3**, **HTML5**
 * **Repo:** [Game of Life](https://github.com/RaphaelTheStegosaurus/Game-Of-Life)
+*  **Demo** [Game of Life in my personal Website](https://rafaelalbertothestegosaurus.com/projects/GameOfLife/index.html)
 
 ### 3. Sample-Scratcher
 * **Description:** A **simple and adaptable** (responsive) web application that simulates the **"scratch-off" effect** to reveal content. It demonstrates event handling and dynamic rendering using pure JavaScript.
