@@ -8,13 +8,13 @@ I'm currently specializing in **Next.js** for Frontend development and **Node.js
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | `JavaScript`, `TypeScript`, `PHP`,`Java`,`C`,`C++`,`C#`,`Python` |
-| **Frontend** | `Next`,`React`, `HTML5`, `CSS3`,`Bootstrap`, `Vite`|
+| **Frontend** | `Next`,`React`, `HTML5`, `CSS3`,`Bootstrap`,`TailwindCSS`, `Vite`|
 | **Backend** | `Node.js`, `Express`|
 | **Databases** | `MySQL`,`MongoDB`|
 | **Tools/DevOps/Hosting** | `Git` `ESLint`,`Hostinger`,`Namecheap`,`Vercel`|
 | **Design/Graphics** | `Inkscape`, `Blender` |
 | **Planning/Diagramming** | `Draw.io`, `Pencil` |
-| **Game Development** | `Unity` |
+| **Game Development** | `Unity`,`LittleJS Engine` |
 | **Server Tools** | `AppServ`,`XAMPP`|
 
 ## 💡 Featured Projects
