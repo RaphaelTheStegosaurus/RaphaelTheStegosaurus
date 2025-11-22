@@ -41,6 +41,8 @@ Here you can find the projects I am currently developing and highlighting.
 * **Technologies Used:** **JavaScript**,**CSS3**, **HTML5**
 * **Repo:** [Parallax Love Word](https://github.com/RaphaelTheStegosaurus/Parallax-Love-Words)
 
+### 5. Romeo are Small
+
 ## 🔭 My Interests
 
 * **Programming (💻):** I enjoy **solving problems** through code. I focus on finding and improving efficient solutions, driven by the constant learning of new technologies and methodologies.
